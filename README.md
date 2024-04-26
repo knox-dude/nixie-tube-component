@@ -9,3 +9,5 @@ Numbers:
 Letters:
 
 * Include picture here
+
+Note: This font, TT-Chocolates, is made available to me because this project is a student project.
